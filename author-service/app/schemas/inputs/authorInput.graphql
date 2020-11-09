@@ -1,0 +1,3 @@
+input AuthorInput {
+  name: String
+}

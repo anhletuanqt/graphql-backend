@@ -1,0 +1,5 @@
+type AuthorResponse {
+  isSuccess: Boolean
+  message: String
+  author: Author
+}

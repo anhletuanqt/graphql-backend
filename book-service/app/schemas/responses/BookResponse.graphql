@@ -1,0 +1,5 @@
+type BookResponse {
+  isSuccess: Boolean
+  message: String
+  book: Book
+}

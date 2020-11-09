@@ -1,0 +1,4 @@
+extend type Author {
+  id: ID! @external
+  books: [Book]
+}
